@@ -1,0 +1,23 @@
+title{
+    background-color: rgb(39, 96, 20);
+    color: rgb(129, 171, 112);
+}
+h1 {
+text-align: center;
+color: rgb(33, 74, 15);
+font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+    color: rgb(65, 115, 43);
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.icon{
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    border-style:double;
+    border-radius: 10px;
+    padding: 5px;
+}
