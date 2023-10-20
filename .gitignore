@@ -70,7 +70,7 @@ node_modules/
 /_site
 
 # ignore OS generated files
-ehthumbs.db
+*.db
 Thumbs.db
 
 # ignore Editor files
