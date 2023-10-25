@@ -16,13 +16,13 @@ p{
     text-align: center;
     background-image: url(images/no.png);
     padding: 5px;
+    margin-bottom: 0px;
 }
 body{
     margin: 0;
     background-color:black;
 }
 .mew{
-    height: 600px;
     position: relative;
 }
 .text{
@@ -41,7 +41,7 @@ body{
 
 .cats{
     text-align: center; 
-    background-image: url("images/cats.png");
+
     background-size:contain;
     background-repeat: no-repeat;
     z-index: 1;
