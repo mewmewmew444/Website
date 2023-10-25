@@ -14,8 +14,7 @@ h2{
 }
 p{
     text-align: center;
-    background-image: url(images/no.png);
-    padding: 5px;
+
     margin-bottom: 0px;
 }
 body{
@@ -35,17 +34,16 @@ body{
     background-size:contain;
     background-repeat: no-repeat;
     box-sizing: border-box;
-    padding: 50px;
+    padding: 100px;
  
 }
 
 .cats{
     text-align: center; 
-
+    vertical-align: bottom;
     background-size:contain;
     background-repeat: no-repeat;
     z-index: 1;
     height: 300;
     width: 100;
 } 
-
