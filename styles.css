@@ -42,7 +42,7 @@ body{
 }
 
 .cats{
-    /* text-align: center; */
+    text-align: center; 
     background-image: url("images/cats.png");
     background-size:contain;
     background-repeat: no-repeat;
